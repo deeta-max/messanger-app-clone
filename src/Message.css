@@ -1,0 +1,17 @@
+.message{
+    max-width: max-content;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.message-user{
+    margin-left: auto;
+    text-align: left !important;
+}
+.message-user-card{
+    background-color: #0b81ff !important;
+}
+
+.message-guest-card{
+    background-color: #e9e9eb !important;
+}
